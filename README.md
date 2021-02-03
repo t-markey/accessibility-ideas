@@ -5,8 +5,8 @@ Some test code for increasing the accessibility of the internet for everyone
 Installation
 ```
 pip install PyPDF2
-pip install pyttsx3
-pip install mpyg321
+pip install gTTS
+pip install pygame
 ```
 
 
